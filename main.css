@@ -59,13 +59,16 @@ p {
 }
 
 #footer-container {
-	
+display: grid;
+background: blue;
 }
 
 #header-container {
-
+display: grid;
+background: pink;
 }
 
 #main-container {
-
+display: grid;
+background: purple;
 }
