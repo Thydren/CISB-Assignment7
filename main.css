@@ -70,5 +70,6 @@ background: pink;
 
 #main-container {
 display: grid;
+grid-template-columns: 1fr 2fr 1fr;
 background: purple;
 }
